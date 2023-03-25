@@ -1,0 +1,10 @@
+A built-in function used to engender a sequence of numbers within a designated range.
+An infinite loop is a loop that continues to execute without ever stopping.
+A) break
+C) continue
+
+Reminder for below...
+
+🔴🔴🔴 ATT: All, We'll sit on the 05th March BD Sunday night at 10 pm for group study. Interested people are welcome to join at that scheduled time. I'll share the Google meeting link accordingly.                                                                   
+
+🔵 Topic: Assignment (Print Odd no using "Recursion")
